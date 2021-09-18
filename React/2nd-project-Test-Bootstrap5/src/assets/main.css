@@ -1,0 +1,40 @@
+body .container-context {
+  border: 1px solid #06a829;
+  margin-bottom: 5px;
+}
+
+body .container {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .container-fluid {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .col {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .col-sm {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .col-md {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .col-lg {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+
+body .col-4 {
+  border: 1px solid red;
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=main.css.map */
